@@ -1,7 +1,7 @@
 {
   "name": "scratch-render",
   "version": "0.1.0",
-  "description": "Wiktor Studio WebGL renderer for Scratch-compatible projects",
+  "description": "Dry Eggs WebGL renderer for Scratch-compatible projects",
   "author": "Massachusetts Institute of Technology",
   "license": "MPL-2.0",
   "homepage": "https://github.com/itswiktoragain/scratch-render#readme",
